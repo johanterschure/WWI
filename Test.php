@@ -1,3 +1,3 @@
 <?php
 $test = 45;
-print($test);
+print($test . "hallo");
